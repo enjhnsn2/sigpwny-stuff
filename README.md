@@ -1,2 +1,2 @@
 # sigpwny-stuff
-I ahve no idea whre this binary came from, but its certainly exploitable.
+I ahve no idea where this binary came from, but it's certainly exploitable.
